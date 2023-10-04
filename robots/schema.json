@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+      "model": {"type": "string"},
+      "version": {"type": "string"},
+      "created": {"type": "string"}
+    },
+    "required": ["model", "version", "created"]
+  }
